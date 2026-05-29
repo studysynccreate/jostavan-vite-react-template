@@ -19,7 +19,6 @@ platform-owned foundations stay stable.
 
 ```bash
 npm install --no-audit --no-fund
-npm run typecheck
 npm run lint
 npm run build
 ```
